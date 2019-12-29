@@ -16,6 +16,10 @@ gem 'simple_token_authentication'
 
 gem 'rack-cors'
 
+gem 'active_model_serializers', require: true
+
+gem 'ffaker'
+
 
 
 # To use ActiveModel has_secure_password
